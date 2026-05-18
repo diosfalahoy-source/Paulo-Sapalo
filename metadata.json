@@ -1,0 +1,8 @@
+{
+  "name": "Pés Na Areia",
+  "description": "Restaurante premium à beira-mar em Luanda com sunsets, cocktails, música ao vivo e gastronomia exclusiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
